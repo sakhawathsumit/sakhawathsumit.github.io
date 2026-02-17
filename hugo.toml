@@ -1,0 +1,18 @@
+baseURL = "https://sakhawathsumit.github.io/"
+languageCode = "en-us"
+title = "Sakhawat Hossain Sumit"
+theme = "hugo-noir"
+# URL handling
+relativeURLs = true
+canonifyURLs = true
+
+[pagination]
+  pagerSize = 5
+
+[params]
+  name = "Sakhawat H Sumit"
+  location = "Saarbrücken, Germany"
+  description = "My research focus on Representation Learning and Reasoning using theories from Abstract Algebra. Currently, I'm focusing on developing my understanding on Group Theory and Category Theory."
+  github = "https://github.com/sakhawathsumit"
+  linkedin = "https://linkedin.com/in/sakhawathsumit"
+  email = "xshsumit@gmail.com"
