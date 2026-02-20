@@ -1,18 +1,34 @@
 baseURL = "https://sakhawathsumit.github.io/"
 languageCode = "en-us"
-title = "Sakhawat Hossain Sumit"
+title = "Sakhawat H Sumit"
 theme = "hugo-noir"
 # URL handling
 relativeURLs = true
 canonifyURLs = true
 
+[params]
+  name = "Sakhawat H Sumit"
+  profile_image = "/images/profile.jpg"
+  location = "Saarbrücken, Germany"
+  description = """
+    I'm writing my Master's thesis and expecting graduation by summer 2026. 
+
+    My research focuses on how Abstract Algebra can formalize and improve 
+    Representation Learning and Reasoning. 
+
+    Currently, I'm deepening my understanding of Group Theory and 
+    expanding into Category Theory.
+  """
+  linkedin = "https://linkedin.com/in/sakhawathsumit"
+  email = "xshsumit@gmail.com"
+  logo = "/images/s.ico"
+
+
+# Taxonomy configuration
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
 [pagination]
   pagerSize = 5
 
-[params]
-  name = "Sakhawat H Sumit"
-  location = "Saarbrücken, Germany"
-  description = "My research focus on Representation Learning and Reasoning using theories from Abstract Algebra. Currently, I'm focusing on developing my understanding on Group Theory and Category Theory."
-  github = "https://github.com/sakhawathsumit"
-  linkedin = "https://linkedin.com/in/sakhawathsumit"
-  email = "xshsumit@gmail.com"
