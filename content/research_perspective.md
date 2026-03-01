@@ -1,7 +1,7 @@
 ---
-title: "Research Philosophy"
+title: "Research Perspective"
 date: 2026-02-20
-draft: false
+draft: true
 menu: "main"
 ---
 

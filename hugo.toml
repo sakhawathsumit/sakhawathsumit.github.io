@@ -32,3 +32,14 @@ canonifyURLs = true
 [pagination]
   pagerSize = 5
 
+[menu]
+  [[menu.main]]
+    name = "About"
+    pageRef = "/about"
+    weight = 1
+
+  [[menu.main]]
+    name = "Research Perspective"
+    pageRef = "/research_perspective"
+    weight = 2
+
