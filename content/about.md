@@ -1,8 +1,9 @@
 ---
 title: "About"
 date: 2026-02-18
-draft: false
 menu: "main"
+layout: "basic"
+draft: false
 ---
 ## I am a Computer Science Master's student at Saarland University.
 
