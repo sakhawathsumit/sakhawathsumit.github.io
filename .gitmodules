@@ -1,0 +1,4 @@
+[submodule "themes/hugo-noir"]
+	path = themes/hugo-noir
+	url = https://github.com/sakhawathsumit/hugo-noir.git
+	branch = custom
