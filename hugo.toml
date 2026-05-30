@@ -7,18 +7,17 @@ relativeURLs = true
 canonifyURLs = true
 
 [params]
+  customCSS = ["css/custom.css"]  
   name = "Sakhawat H Sumit"
   profile_image = "/images/profile.jpg"
   location = "Saarbrücken, Germany"
   description = """
-    I'm writing my Master's thesis and expecting graduation by summer 2026. 
+    I am currently writing my Master's thesis and expect to graduate by the summer of 2026.
 
-    My research focuses on how Abstract Algebra can formalize and improve 
-    Representation Learning and Reasoning. 
+    My research focuses on building neural network models that learn efficient abstract representations, while ensuring their internal reasoning mechanisms remain inherently interpretable. To achieve this, I use Group and Representation Theory to unify these concepts within a formal framework.
 
-    Currently, I'm deepening my understanding of Group Theory and 
-    expanding into Category Theory.
-  """
+    Currently, I am deepening my understanding of Group Theory and expanding my knowledge into Category Theory.
+"""
   linkedin = "https://linkedin.com/in/sakhawathsumit"
   email = "xshsumit@gmail.com"
   logo = "/images/s.ico"
