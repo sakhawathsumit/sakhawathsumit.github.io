@@ -38,7 +38,7 @@ canonifyURLs = true
     weight = 1
 
   [[menu.main]]
-    name = "Research Perspective"
-    pageRef = "/research_perspective"
+    name = "Research"
+    pageRef = "/research"
     weight = 2
 
