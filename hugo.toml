@@ -11,13 +11,22 @@ canonifyURLs = true
   name = "Sakhawat H Sumit"
   profile_image = "/images/profile.jpg"
   location = "Saarbrücken, Germany"
+
   description = """
-    I am currently writing my Master's thesis and expect to graduate by the summer of 2026.
+  I am currently writing my Master's thesis and 
+  expect to graduate by the summer of 2026.
 
-    My research focuses on building neural network models that learn efficient abstract representations, while ensuring their internal reasoning mechanisms remain inherently interpretable. To achieve this, I use Group and Representation Theory to unify these concepts within a formal framework.
+  My primary research ambition is to design efficient neural network models 
+  that learn abstract representations of structural composition, 
+  ensuring that the reasoning behind the compositional process remains 
+  tractable and rigorously interpretable.
 
-    Currently, I am deepening my understanding of Group Theory and expanding my knowledge into Category Theory.
-"""
+  To this end, I leverage Group Representation Theory to unify these concepts 
+  within a formal framework.
+  Currently, I am deepening my understanding of Group Representation Theory 
+  and expanding my knowledge into Category Theory.
+  """
+
   linkedin = "https://linkedin.com/in/sakhawathsumit"
   email = "xshsumit@gmail.com"
   logo = "/images/s.ico"
