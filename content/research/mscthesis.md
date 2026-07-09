@@ -3,10 +3,11 @@ title: "Structural Representation Learning and the Characterisation and Interpre
 date: 2026-07-09T16:12:00+02:00
 draft: false
 description: "Masters Thesis"
-image: "/images/cover_page.png"
+image: "/images/mscthesis_cover_page.png"
 tags: ["Machine Learning", "Group Representation Theory"]
 repo: "" 
 link: "" 
+layout: "basic"
 ---
 # Abstact:
 
