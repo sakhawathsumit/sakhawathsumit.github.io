@@ -48,6 +48,6 @@ canonifyURLs = true
 
   [[menu.main]]
     name = "Research"
-    pageRef = "/research"
+    pageRef = "/research/_index"
     weight = 2
 
